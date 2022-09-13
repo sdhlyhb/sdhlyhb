@@ -26,7 +26,7 @@
 ![JEST](https://img.shields.io/badge/JEST-C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![JEST](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF.svg?style=for-the-badge&logo=k6&logoColor=white)
-
+![NewRelic](https://img.shields.io/badge/NewRelic-008C99.svg?style=for-the-badge&logo=new-relic&logoColor=white)
 
 
 
