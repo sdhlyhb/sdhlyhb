@@ -29,6 +29,7 @@
 ![NewRelic](https://img.shields.io/badge/NewRelic-008C99.svg?style=for-the-badge&logo=new-relic&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101.svg?style=for-the-badge&logo=Socket.io&logoColor=white)
 
 
 
