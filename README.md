@@ -6,8 +6,13 @@
 
 [![Serene Huang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdhlyhb&&hide=stars,issues&count_private=true&show_icons=true&theme=radical)](https://github.com/sdhlyhb/)
 
+
 - 😄 I'm a passionate full stack developer
 - 📍 Based in Atlanta, GA
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sdhlyhb&theme=algolia&hide_border=true)](https://git.io/streak-stats)
+
 
 ### Language and Tools
 
