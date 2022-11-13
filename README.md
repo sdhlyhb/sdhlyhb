@@ -1,8 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=800&color=3AB4F2&background=F2FFA2&center=true&vCenter=true&multiline=true&width=850&height=150&lines=Hi+there%F0%9F%91%8B%2C+this+is+Serena+Huang!;%F0%9F%92%BB+I+am+a+passionate+Fullstack+Software++Engineer!;%F0%9F%98%83+Welcome+to+my+Github!)](https://git.io/typing-svg)
+<p align="center">
+  <!-- Typing SVG   -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=900&color=3AB4F2&background=F2FFA2&center=true&vCenter=true&multiline=true&width=850&height=150&lines=Hi+there%F0%9F%91%8B%2C+this+is+Serena+Huang!;%F0%9F%92%BB+I+am+a+passionate+Fullstack+Software++Engineer!;%F0%9F%98%83+Welcome+to+my+Github!" /></a>
+</p>
+
+
+<p align="middle">
+  <a href="https://www.linkedin.com/in/dantinghuang/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="serena.huangdanting@Gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ 
+</p>
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sdhlyhb&label=Profile%20views&color=0e75b6&style=flat" alt="sdhlyhb" /> </p>
+<p align="center">   <img src="https://komarev.com/ghpvc/?username=sdhlyhb&label=Profile%20views&color=0e75b6&style=flat" alt="sdhlyhb" /></p>
 
 [![Serene Huang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdhlyhb&&hide=stars,issues&count_private=true&show_icons=true&theme=radical)](https://github.com/sdhlyhb/)
 
