@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tillana&weight=600&size=28&pause=800&color=3AB4F2&background=F2FFA2&center=true&vCenter=true&multiline=true&width=750&height=150&lines=Hi+there%F0%9F%91%8B%2C+this+is+Serena+Huang!;%F0%9F%92%BB+I+am+a+passionate+Fullstack+Software++Engineer!;%F0%9F%98%83+Welcome+to+my+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=800&color=3AB4F2&background=F2FFA2&center=true&vCenter=true&multiline=true&width=850&height=150&lines=Hi+there%F0%9F%91%8B%2C+this+is+Serena+Huang!;%F0%9F%92%BB+I+am+a+passionate+Fullstack+Software++Engineer!;%F0%9F%98%83+Welcome+to+my+Github!)](https://git.io/typing-svg)
 
 
 
@@ -7,8 +7,10 @@
 [![Serene Huang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdhlyhb&&hide=stars,issues&count_private=true&show_icons=true&theme=radical)](https://github.com/sdhlyhb/)
 
 
-- 😄 I'm a passionate full stack developer
+- 😄 I'm a passionate full stack Software Engineer
 - 📍 Based in Atlanta, GA
+
+- 🔭 I’m currently working on my side project: TrackIT
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sdhlyhb&theme=algolia&hide_border=true)](https://git.io/streak-stats)
@@ -44,6 +46,7 @@
 ![Eslint](https://img.shields.io/badge/Eslint-E6E6FA?style=for-the-badge&logo=eslint&logoColor=4B32C3)
 ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=trello&logoColor=white)
 
 
 
