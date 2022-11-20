@@ -1,3 +1,7 @@
+<div align="center">
+
+![MasterHead](https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif)
+</div>
 <p align="center">
   <!-- Typing SVG   -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=900&color=3AB4F2&background=F2FFA2&center=true&vCenter=true&multiline=true&width=850&height=150&lines=Hi+there%F0%9F%91%8B%2C+this+is+Serena+Huang!;%F0%9F%92%BB+I+am+a+passionate+Fullstack+Software++Engineer!;%F0%9F%98%83+Welcome+to+my+Github!" /></a>
