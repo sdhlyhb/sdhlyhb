@@ -16,17 +16,24 @@
 
 
 
+
+
+
+- 😄 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 📍 Based in Atlanta, GA
+- 🔭 I’m currently learning Typescript
+
+---
+### :space_invader: &nbsp;Recent Projects :
+
+- [PawPrints: a mobile-first chat app that shares and expires pet photos](https://github.com/sdhlyhb/PawPrints)
+- [Atelier: an E-commerce site](https://github.com/sdhlyhb/ProjectAtelier) 
+- [Microservice System Design: system design for an existing front end web application](https://github.com/sdhlyhb/SystemDesign_QnA_Microservice)
+
+
 <p align="center">   <img src="https://komarev.com/ghpvc/?username=sdhlyhb&label=Profile%20views&color=0e75b6&style=flat" alt="sdhlyhb" /></p>
 
 [![Serene Huang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdhlyhb&&hide=stars,issues&count_private=true&show_icons=true&theme=radical)](https://github.com/sdhlyhb/)
-
-
-- 😄 I'm a passionate full stack Software Engineer
-- 📍 Based in Atlanta, GA
-
-- 🔭 I’m currently learning Typescript
-
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=sdhlyhb&theme=algolia&hide_border=true)](https://git.io/streak-stats)
 
 
