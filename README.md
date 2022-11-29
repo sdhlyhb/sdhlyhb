@@ -24,7 +24,7 @@
 - 😄 I'm a passionate full stack Software Engineer
 - 📍 Based in Atlanta, GA
 
-- 🔭 I’m currently working on my side project: TrackIT
+- 🔭 I’m currently learning Typescript
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sdhlyhb&theme=algolia&hide_border=true)](https://git.io/streak-stats)
