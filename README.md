@@ -66,7 +66,6 @@
 ![MUI](https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-fff.svg?style=for-the-badge&logo=Socket.io&logoColor=black)
 ![Eslint](https://img.shields.io/badge/Eslint-E6E6FA?style=for-the-badge&logo=eslint&logoColor=4B32C3)
-![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=trello&logoColor=white)
 
