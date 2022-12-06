@@ -28,7 +28,7 @@
 
 - [PawPrints: a mobile-first chat app that shares and expires pet photos](https://github.com/sdhlyhb/PawPrints)
 - [Atelier: an E-commerce site](https://github.com/sdhlyhb/ProjectAtelier) 
-- [Microservice System Design: system design for an existing front end web application](https://github.com/sdhlyhb/SystemDesign_QnA_Microservice)
+- [Microservice System Design: system design for an existing frontend web application](https://github.com/sdhlyhb/SystemDesign_QnA_Microservice)
 - [mvp-JobTrackr: A light-weight job application tracker](https://github.com/sdhlyhb/mvp-JobTrackr)
 
 
