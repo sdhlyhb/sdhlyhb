@@ -34,7 +34,7 @@
 
 <p align="center">   <img src="https://komarev.com/ghpvc/?username=sdhlyhb&label=Profile%20views&color=0e75b6&style=flat" alt="sdhlyhb" /></p>
 
-[![Serene Huang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdhlyhb&&hide=stars,issues&count_private=true&show_icons=true&theme=radical)](https://github.com/sdhlyhb/)
+<!--[![Serene Huang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdhlyhb&&hide=stars,issues&count_private=true&show_icons=true&theme=radical)](https://github.com/sdhlyhb/) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=sdhlyhb&theme=algolia&hide_border=true)](https://git.io/streak-stats)
 
 
