@@ -21,7 +21,7 @@
 
 - 😄 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 📍 Based in Atlanta, GA
-- 🔭 I’m currently working on a project using Typescript.
+- 🔭 I’m currently learning Typescript and react native.
 
 ---
 ### :space_invader: &nbsp;Recent Projects :
