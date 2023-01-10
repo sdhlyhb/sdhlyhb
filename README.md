@@ -22,6 +22,7 @@
 - 😄 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 📍 Based in Atlanta, GA
 - 🔭 I’m currently learning Typescript and react native.
+- [My Personal Portfolio](https://sdhlyhb.github.io/portfolio)
 
 ---
 ### :space_invader: &nbsp;Recent Projects :
